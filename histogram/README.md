@@ -23,4 +23,4 @@ a sub-histogram and store it on the chip local memory. These local
 sub-histograms are added up after all work-items have reached the second
 barrier and reduced into a single global histogram.
 
-![image](media/image.png = 250x250) | ![image](media/image2.png = 250x250)
+<a href="url"><img src="media/image.png" align="left" height="48" width="255" ></a>
