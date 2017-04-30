@@ -70,7 +70,7 @@ public:
   }; 
 
   /*
-   * brief  Set new point position after transformation
+   * brief  Set new points position after transformation
    */
   void updateNewPos(float x, float y)
   {
