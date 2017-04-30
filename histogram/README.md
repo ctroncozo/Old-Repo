@@ -1,5 +1,5 @@
 OpenCL Histogram
-
+================
 Cristian Troncoso
 
 This program computes the histogram of an image on the GPU using OpenCL
@@ -23,4 +23,4 @@ a sub-histogram and store it on the chip local memory. These local
 sub-histograms are added up after all work-items have reached the second
 barrier and reduced into a single global histogram.
 
-<img src="media/image.png" align="left" height="48" width="400" height="250" >
+<img src="media/image3.png" align="center">
