@@ -50,11 +50,11 @@ A class Point2D was implemented to contain the information for each point; origi
 Finally, a class Row and Column were implemented to organize the points by row or by column.
 The algorithm uses encapsulation by delegating the creation of Point2D objects to a factory class, Point2DFactory (Factory method pattern).
 The most important functions are rotation, and translation, can be seen in the following listing.
-![](media/img3.png)
+![](media/img44.png)
 
 Testing
 -------
-![](media/img4.png)  
+![](media/im3.png)  
 
 Input and Output
 ----------------
