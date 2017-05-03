@@ -1,3 +1,5 @@
+# @author: Cristian Troncoso
+
 ifndef CC
 	CC = gcc
 endif
