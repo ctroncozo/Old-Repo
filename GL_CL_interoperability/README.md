@@ -23,7 +23,7 @@ interoperability.
     executes OpenGL by rendering the output texture from OpenCL onto a
     Quad primitive.
 
-> The goal of this exercise is that I can implement on-the-fly image
-> processing to picutures frames as they are being displayed by OpenGL
->
-> ![](img.png)
+ The goal of this exercise is that I can implement on-the-fly image
+ processing to picutures frames as they are being displayed by OpenGL
+
+ ![](img.png)
