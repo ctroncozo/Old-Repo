@@ -1,4 +1,4 @@
-# Computer Animation - CSE 169
+# Computer Animation
 
 See Demo at this link : https://www.youtube.com/watch?v=g5WcQp7OuV4
 ## Installation
